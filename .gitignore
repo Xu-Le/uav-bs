@@ -1,0 +1,10 @@
+cmd/*.o
+cmd/*.csv
+cmd/UAV
+
+gen/*.o
+gen/*.csv
+gen/*.txt
+gen/genCases
+
+cases
